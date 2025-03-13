@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on implementing an anomaly detection system for the SIG 5 Machine using the Isolation Forest algorithm. The goal is to identify abnormal patterns and detect potential failures before they impact production.
+This project focuses on developing an anomaly detection system for the SIG 5 Machine using the Isolation Forest algorithm. The primary objective is to identify abnormal patterns that may indicate potential product leakage.
 
 ## Dataset
 
